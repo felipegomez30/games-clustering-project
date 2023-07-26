@@ -15,7 +15,7 @@ The web scraping process ensures that our dataset includes the latest and most u
 
 ## Notebook
 
-The complete code, along with detailed analysis, can be found in our Jupyter Notebook here. In the notebook, you will find step-by-step explanations of the data collection, data preprocessing, TfidfVectorizer implementation, K-means clustering, PCA visualization, and the evaluation of the clustering results.
+The complete code, along with detailed analysis, can be found in our Jupyter Notebook [here ](https://github.com/felipegomez30/games-clustering-project/blob/main/notebook/videogames-project.ipynb). In the notebook, you will find step-by-step explanations of the data collection, data preprocessing, TfidfVectorizer implementation, K-means clustering, PCA visualization, and the evaluation of the clustering results.
 
 ## Results
 
